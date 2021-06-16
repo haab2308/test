@@ -1,0 +1,753 @@
+#EXTM3U
+#EXTINF:-1,TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1,RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb-aneka/chunklist_w937492718_b1120000_sleng.m3u8
+
+#EXTINF:-1,Drama Sangat [IP MALAYSIA SAHAJA]
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jM-ropJaMG17cT7NBDX2JA)/dm/3/x6zvnex/s/live-4.m3u8
+
+#EXTINF:-1,Drama Sangat [Backup]
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
+#EXTINF:-1,TV6 [Auto]
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1,TV6 [720p]
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2164000.m3u8
+
+#EXTINF:-1,TV6 [1080p]
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
+
+#EXTINF:-1,Berita RTM [Auto]
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1,Berita RTM [720p]
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2164000.m3u8
+
+#EXTINF:-1,Berita RTM [1080p]
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
+
+#EXTINF:-1,Sukan RTM
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+
+#EXTINF:-1,Sukan RTM [Auto]
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+
+#EXTINF:-1,Sukan RTM [720p]
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
+
+#EXTINF:-1,Sukan RTM [1080p]
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
+
+#EXTINF:-1,Sukan RTM [Backup 1080p]
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
+
+#EXTINF:-1,TV1 CH101
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1,TV1 [720p Backup]
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8
+
+#EXTINF:-1,TV1 [1080p]
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+
+#EXTINF:-1,TV2 CH102
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1,TV2 [720p Backup]
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8
+
+#EXTINF:-1,TV2 [1080p]
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+
+#EXTINF:-1,TV3 CH103
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1,TV3 480p[Backup]
+http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
+
+#EXTINF:-1,Astro Ria CH104
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1,Astro Prima CH105
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1,Astro Oasis CH106
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1,Astro Warna CH107
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1,Astro Citra CH108
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1,Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1,Suria CH110
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+
+#EXTINF:-1,Astro Rania CH112
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+
+#EXTINF:-1,Astro Aura CH113
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+
+#EXTINF:-1,Al-Hijrah CH114
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1,Colors Hindi HD CH116
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
+
+#EXTINF:-1,Go Shop Rumma CH118
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6720
+
+#EXTINF:-1,Go Shop GAAYA CH120
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+
+#EXTINF:-1,TVS CH122
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1,Awesome TV CH123
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+
+#EXTINF:-1,TV Okey CH146
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
+
+#EXTINF:-1,NTV7 CH147
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+
+#EXTINF:-1,NTV7 [Backup]
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:-1,8TV CH148
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1,TV9 CH149
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1,Astro Vaanavil CH201
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1,Astro Vinmeen CH202
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+
+#EXTINF:-1,Makkal TV CH204
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+
+#EXTINF:-1,Sun TV HD CH211
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+
+#EXTINF:-1,Chutti TV CH213
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
+
+#EXTINF:-1,Adithya CH214
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+
+#EXTINF:-1,Star Vijay HD CH221
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+
+#EXTINF:-1,Colors Tamil CH222
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+
+#EXTINF:-1,Zee Tamil HD CH223
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+
+#EXTINF:-1,BollyOne HD CH251
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+
+#EXTINF:-1,iQIYI HD CH300
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+
+#EXTINF:-1,Astro Xiao Tai Yang HD CH304
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88500
+
+#EXTINF:-1,Astro Xiao Tai Yang HD 1[Backup]
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1,Astro Xiao Tai Yang HD 2[Backup]
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1,TVB Classic CH305
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
+
+#EXTINF:-1,Astro AEC CH306
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+
+#EXTINF:-1,Astro Shuang Xing 双星台 CH307
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1,TVB Xing He 星河 CH319
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1,Astro Quan Jia 全佳 CH308
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1,Celestial Movies 天映频道 CH309
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1,Celestial Movies Indo Sub [Guna VPN]
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,TVB Jade CH310 [Backup]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
+
+#EXTINF:-1,Astro 华丽台 [TVB Jade]
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1,Astro AOD CH311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1,CTI Asia CH316
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
+
+#EXTINF:-1,TVB News CH318
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
+
+#EXTINF:-1,TVB Xing He CH319
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319319
+
+#EXTINF:-1,TVBS Asia HD CH320
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
+
+#EXTINF:-1,CCM 天映经典 CH321
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1,Astro Hua Hee Dai 欢喜台 CH333
+http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+
+#EXTINF:-1,CCTV4 HD CH335
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
+
+#EXTINF:-1,Astro AOD CH351
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/59234
+
+#EXTINF:-1,Astro AOD CH352
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/59225
+
+#EXTINF:-1,Astro AOD CH353
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/324058
+
+#EXTINF:-1,Astro AOD CH362
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319605
+
+#EXTINF:-1,Astro AOD CH363
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/324059
+
+#EXTINF:-1,KBS World HD CH392
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6803
+
+#EXTINF:-1,KBS World HD [Backup]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+
+#EXTINF:-1,One HD CH393
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
+
+#EXTINF:-1,Oh!K CH394
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1,tvN CH395
+http://zalogitv.tech:8080/mastro-top/2323/299|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1,Hits Movie CH401
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+
+#EXTINF:-1,BOO CH404
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1,HBO [Malay Sub] CH405
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1,HBO [Malay Dub]
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8840
+
+#EXTINF:-1,HBO FHD [Indo Sub]
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+
+#EXTINF:-1,HBO [English Sub]
+http://rv.imax.re:80/7076610784/1167304977/79755
+
+#EXTINF:-1,HBO 2 US FHD [Soft Sub]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20904
+
+#EXTINF:-1,HBO USA FHD [EAST]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148633
+
+#EXTINF:-1,HBO USA FHD [WEST]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148634
+
+#EXTINF:-1,HBO 1 CANADA HD [Soft Sub]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21084
+
+#EXTINF:-1,HBO 2 CANADA HD [Soft Sub]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5002
+
+#EXTINF:-1,HBO [Backup]
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1,HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+
+#EXTINF:-1,HBO Asia [Backup]
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+
+#EXTINF:-1,
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+#EXTINF:-1,
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1,HBO Hits [Backup]
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:-1,CINEMAX [Backup]
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+
+#EXTINF:-1,
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+
+#EXTINF:-1,HBO [Multi DUB]
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#EXTINF:-1,CinemaWorld Indo Sub [Guna VPN]
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1,CINEMAX CH412
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+
+#EXTINF:-1,CINEMAX MOREMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20907
+
+#EXTINF:-1,CINEMAX EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
+
+#EXTINF:-1,CINEMAX OUTERMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20905
+
+#EXTINF:-1,CINEMX MOVIEMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20897
+
+#EXTINF:-1,CINEMAX 5 STARMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7892
+
+#EXTINF:-1,CINEMAX ACTIONMAX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
+
+#EXTINF:-1,CINEMAX PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
+
+#EXTINF:-1,FOX Movies CH413
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
+#EXTINF:-1,FOX Action Movies CH415
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
+#EXTINF:-1,FOX Crime (Asia)
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1,TVN Movies CH416
+http://zalogitv.tech:8080/live/mastro-top/2323/1401.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Thrill Indo Sub [Guna VPN] CH417
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?pijanify.m3u8
+
+#EXTINF:-1,Astro Awani CH501
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1,BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1,CNN HD CH511
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
+
+#EXTINF:-1,Al-Jazeera EN CH513
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52970
+
+#EXTINF:-1,Al-Jazeera EN [1080p Backup]
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1,Sky News HD CH514
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+
+#EXTINF:-1,CNA News CH515
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1,CNA News [Guna VPN]
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+
+#EXTINF:-1,Bloomberg TV CH517
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6751
+
+#EXTINF:-1,ABC Australia CH518
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6692
+
+#EXTINF:-1,Bloomberg News [Guna VPN] CH519
+http://210.210.155.35/uq2663/h/h03/index1.m3u8
+
+#EXTINF:-1,Nat Geo Wild CH550
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1,Nat Geo CH551
+http://bit.ly/natgeo551
+
+#EXTINF:-1,Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+
+#EXTINF:-1,Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+
+#EXTINF:-1,Discovery Channel 552
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+
+#EXTINF:-1,Discovery Asia [Viet] CH553
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+
+#EXTINF:-1,History [USA] CH555
+http://rv.imax.re:80/7076610784/1167304977/81017
+
+#EXTINF:-1,History [UK]
+http://rv.imax.re:80/7076610784/1167304977/167859
+
+#EXTINF:-1,Animal Planet CH556
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1,Animal Planet [Viet Sub]
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,Animal Planet HD [Backup]
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/28
+
+#EXTINF:-1,Astro Tutor TV UPSR CH601
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
+
+#EXTINF:-1,Astro Tutor TV PT3 CH602
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+
+#EXTINF:-1,Astro Tutor TV SPM CH603
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+
+#EXTINF:-1,Astro TVIQ CH610
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+
+#EXTINF:-1,Astro Ceria CH611
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1,Disney XD [LATIN] CH612
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+
+#EXTINF:-1,Disney Junior CH613
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+
+#EXTINF:-1,Disney Junior [Backup]
+http://zalogitv.tech:8080/mastro-top/2323/1453|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Disney Channel [USA] CH614
+http://ip.mooniptv.cz:80/307213407411/307213407411/81029
+
+#EXTINF:-1,Disney Channel [Backup]
+http://bazarhd.online:80/307210575557/307210575557/85134
+
+#EXTINF:-1,Disney Channel [Backup]
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
+
+#EXTINF:-1,Disney Channel [Backup]
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/36
+
+#EXTINF:-1,Disney Channel HD [Backup]
+http://zalogitv.tech:8080/mastro-top/2323/1452|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Disney Channel [Backup]
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+
+#EXTINF:-1,Disney Channel 2[Backup]
+http://rv.imax.re:80/7076610784/1167304977/78535
+
+#EXTINF:-1,Cartoon Network CH615
+http://zalogitv.tech:8080/mastro-top/2323/1454|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Cartoon Network [Backup]
+http://bazarhd.online:80/307210575557/307210575557/85136
+
+#EXTINF:-1,Cartoon Network [Backup]
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/33
+
+#EXTINF:-1,Nickelodeon CH616
+http://zalogitv.tech:8080/mastro-top/2323/1460|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Nickelodeon [Backup]
+http://tv.rebeliptv.com:83/82936722/29038858/142696.ts
+
+#EXTINF:-1,Nickelodeon [Backup]
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/47
+
+#EXTINF:-1,Nickelodeon Junior CH617
+http://bit.ly/NickJr360p
+
+#EXTINF:-1,Nick Jr [Backup]
+http://bazarhd.online:80/307210575557/307210575557/85131
+
+#EXTINF:-1,Nickelodeon Junior [Backup]
+http://zalogitv.tech:8080/mastro-top/2323/601|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Nickelodeon Junior [Backup]
+http://tv.rebeliptv.com:83/82936722/29038858/142694.ts
+
+#EXTINF:-1,Nickelodeon Junior [Backup]
+http://rv.imax.re:80/7076610784/1167304977/78532
+
+#EXTINF:-1,Nicktoon
+http://bazarhd.online:80/307210575557/307210575557/85130
+
+#EXTINF:-1,USA: Boomerang CH619
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+
+#EXTINF:-1,USA: Boomerang [Backup]
+http://bazarhd.online:80/307210575557/307210575557/85135
+
+#EXTINF:-1,Boomerang [Backup]
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/32
+
+#EXTINF:-1,AXN Indo Sub CH701
+http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,AXN Indo Sub [Guna VPN]
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1,AXN HD 1080p [PT Sub]
+http://rv.imax.re:80/FhIw3X8Fym/O3iBiTdNRQ/81815
+
+#EXTINF:-1,Hello HD CH702
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1,FOXlife CH703
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1,KiX [Guna VPN] CH705
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,KiX [Backup - Viet Sub]
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+
+#EXTINF:-1,Hits HD CH706
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
+
+#EXTINF:-1,TLC HD CH707
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6832
+
+#EXTINF:-1,Food Network HD CH708
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
+
+#EXTINF:-1,Asian Food Network HD CH709
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+
+#EXTINF:-1,Nat Geo People CH710
+http://bit.ly/natgeopeople
+
+#EXTINF:-1,Warner TV CH712
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+
+#EXTINF:-1,FX Cinema HD CH713
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
+
+#EXTINF:-1,Crime & Investigation CH714
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52964
+
+#EXTINF:-1,HGTV [ASIA] CH715
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-1,HGTV [USA]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7917
+
+#EXTINF:-1,DMAX HD CH716
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6778
+
+#EXTINF:-1,MTV CH718
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
+
+#EXTINF:-1,Animax CH719
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
+
+#EXTINF:-1,Aniplus Indo Sub [Guna VPN]
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1,eGG Network CH800
+https://mastrotv.xyz/playlist/usee-egg-mastro-iptv.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Astro Arena CH801
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 1 CH811
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 2 CH812
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 3 CH813
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 4 CH814
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1,FOX Sports 1 HD CH815
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7894
+
+#EXTINF:-1,FOX Sports 2 HD CH816
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7893
+
+#EXTINF:-1,FOX Sports 3 HD CH817 MX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20096
+
+#EXTINF:-1,beIN Sport 1 CH818 [Set player HW sahaja]
+http://zalogitv.tech:8080/live/mastro-top/2323/11923.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,beIN Sport 1 [Backup - Slow]
+https://nonton.site:8443/provision/pp/728
+
+#EXTINF:-1,beIN Sport 2
+http://zalogitv.tech:8080/live/mastro-top/2323/11984.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,beIN Sport 2 [Backup - Slow]
+https://nonton.site:8443/provision/pp/729
+
+#EXTINF:-1,beIN Sport 2 [English]
+http://bazarhd.online:80/307210575557/307210575557/163918
+
+#EXTINF:-1,beIN Sport 2 [English - Backup]
+http://bazarhd.online:80/307210575557/307210575557/163901
+
+#EXTINF:-1,beIN Sport 3 [English]
+http://bazarhd.online:80/307210575557/307210575557/163917
+
+#EXTINF:-1,beIN Sport 3 [English - Backup]
+http://bazarhd.online:80/307210575557/307210575557/163900
+
+#EXTINF:-1,BeinSports HD1 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385863.ts
+
+#EXTINF:-1,BeinSports HD2 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385864.ts
+
+#EXTINF:-1,BeinSports HD3 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385865.ts
+
+#EXTINF:-1,BeinSports HD4 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385866.ts
+
+#EXTINF:-1,BeinSports HD5 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385867.ts
+
+#EXTINF:-1,BeinSports HD6 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385868.ts
+
+#EXTINF:-1,BeinSports HD07 720p
+http://tv.rebeliptv.com:83/82936722/29038858/385869.ts
+
+#EXTINF:-1,beIN Sport HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866
+
+#EXTINF:-1,beIN Sport 1 [FR]
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
+
+#EXTINF:-1,Eurosport HD CH820
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6784
+
+#EXTINF:-1,WWE Network CH821
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
+
+#EXTINF:-1,Golf Channel HD CH822
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
+
+#EXTINF:-1,RugbyPass TV CH823
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+
+#EXTINF:-1,Astro Cricket CH824
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
+
+#EXTINF:-1,DW HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6782
+
+#EXTINF:-1,France 24 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6794
+
+#EXTINF:-1,K-Plus
+http://zalogitv.tech:8080/live/mastro-top/2323/301.m3u8|user-agent=com.mastro.tv/2.0
+
+#EXTINF:-1,Channel 5
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+
+#EXTINF:-1,Channel 8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+
+#EXTINF:-1,RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+
+#EXTINF:-1,SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1,Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+
+#EXTINF:-1,NET TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+
+#EXTINF:-1,MNCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+
+#EXTINF:-1,TRANSTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+
+#EXTINF:-1,GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+
+#EXTINF:-1,Kompas TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+
+#EXTINF:-1,Metro TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+
+#EXTINF:-1,Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-1,Jak TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1,Jek TV
+http://122.248.43.138:1935/ch14/myStream/chunklist_w1542065869.m3u8
+
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+
+#EXTINF:-1,TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1,Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+
+#EXTINF:-1,Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+
+#EXTINF:-1,Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+
+#EXTINF:-1,TV Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+
+#EXTINF:-1,Berita Satu
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1,Berita Satu [Backup]
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
